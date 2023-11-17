@@ -1,3 +1,5 @@
+![DALL·E 2023-11-17 23 17 47 - wall](https://github.com/Hackathon2023Cyprus/.github/assets/66517969/6d824cf2-716c-4b5e-8801-ee27582bb080)
+
 # Green Lantern 🌱
 
 Green Lantern 🌱 is a Computer Vision Assistant web app designed to help you monitor and manage your greenhouse effectively. With Green Lantern 🌱, you can keep track of the health and growth of your plants, and make informed decisions to optimize your greenhouse environment.
